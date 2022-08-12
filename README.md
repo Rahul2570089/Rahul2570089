@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm into mobile app development, web development and cloud computing.\
 📄 &nbsp;Have a look at my [Resume](https://drive.google.com/file/d/1H4bBwAVFeQEhj0BnQVYlcnsQHjalx488/view?usp=sharing) for more details about me. Feedback and suggestions are always welcomed!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" height="250" src="https://github.com/Rahul2570089/Rahul2570089/blob/main/coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 

@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to build things and solve problems.\
 🎓 &nbsp;I'm currently pursuing Bachelor of Technology in Information Technology at the Dharmsinh Desai University, Nadiad, Gujarat, India.\
-🌱 &nbsp;I'm into mobile app development, web development and cloud computing.\
+🌱 &nbsp;I'm into mobile app development (majorly), and cloud computing.\
 📄 &nbsp;Have a look at my [Resume](https://drive.google.com/file/d/1H4bBwAVFeQEhj0BnQVYlcnsQHjalx488/view?usp=sharing) for more details about me. Feedback and suggestions are always welcomed!
 
 <img alt="Night Coding" height="230" src="https://github.com/Rahul2570089/Rahul2570089/blob/main/coding.gif" align="right"/>
@@ -19,12 +19,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<!-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<!-- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) -->
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -39,6 +39,5 @@
 <a href="https://www.linkedin.com/in/rahul-shinde-b8b7351b9/"><img src="https://img.shields.io/badge/-Rahul%20Shinde-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rs2570089@gmail.com"><img src="https://img.shields.io/badge/-rs2570089@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/rahul_shinde226/"><img src="https://img.shields.io/badge/-@rahul__shinde226-E4405F?style=flat&logo=Instagram&logoColor=white"/></a><br/>
-<a href="https://twitter.com/rahul_22602"><img src="https://img.shields.io/twitter/follow/rahul_22602?style=social"/></a>
 
 -----

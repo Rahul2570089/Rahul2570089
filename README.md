@@ -33,6 +33,11 @@
 <!-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) -->
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul2570089&show_icons=true&theme=tokyonight)](https://github.com/Rahul2570089/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul2570089&show_icons=true&theme=tokyonight)](https://github.com/Rahul2570089/github-readme-stats)
+
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://my-portfolio-rahul2570089.vercel.app/"><img src="https://img.shields.io/badge/-RahulShinde's portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>

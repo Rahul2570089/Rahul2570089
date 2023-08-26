@@ -5,7 +5,7 @@
 💡 &nbsp;I like to build things and solve problems.\
 🎓 &nbsp;I'm currently pursuing Bachelor of Technology in Information Technology at the Dharmsinh Desai University, Nadiad, Gujarat, India.\
 🌱 &nbsp;I'm into mobile app development (majorly), and cloud computing.\
-📄 &nbsp;Have a look at my [Resume](https://drive.google.com/file/d/17-p2dN18o9_x4XntXSizCy4oSVsJIAyV/view?usp=share_link) for more details about me. Feedback and suggestions are always welcomed!
+📄 &nbsp;Have a look at my [Resume]([https://drive.google.com/file/d/17-p2dN18o9_x4XntXSizCy4oSVsJIAyV/view?usp=share_link](https://drive.google.com/file/d/11yczZEbtJZuK93UUNQpcvuacd9qD5X2B/view?usp=sharing)) for more details about me. Feedback and suggestions are always welcomed!
 
 <img alt="Night Coding" height="230" src="https://github.com/Rahul2570089/Rahul2570089/blob/main/coding.gif" align="right"/>
 
